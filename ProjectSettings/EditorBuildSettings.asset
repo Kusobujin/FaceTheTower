@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainMenu.unity
+    guid: e6b1b34bfe87aaf42b3a0d6ccf9b52d5
+  - enabled: 1
+    path: Assets/Scenes/mageSelect.unity
+    guid: d57dd0b250c01d84ea8d4845843b6c0c
+  - enabled: 1
+    path: Assets/Scenes/summonSelect.unity
+    guid: cc68375f21ef434408ba794af3f1e4e9
+  - enabled: 1
+    path: Assets/Scenes/lobby.unity
+    guid: 7a4c3d8ddbcf2d14ebf90b57aa3ea78f
+  - enabled: 1
+    path: Assets/Scenes/battle.unity
+    guid: 1a252bedc77878d4f8fbf35ca30a67cf
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
